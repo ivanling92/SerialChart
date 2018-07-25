@@ -17,9 +17,9 @@ namespace TEST
             InitializeComponent();
             serialPort1.PortName = "COM4";
             chart1.ChartAreas[0].AxisY.Maximum = 200;
-            chart1.ChartAreas[0].AxisY.Minimum = 60;
+            chart1.ChartAreas[0].AxisY.Minimum = 10;
         }
-        int num = 0;
+        int num = 1000;
         private void button1_Click(object sender, EventArgs e)
         {
             chart1.Series[0].Points.AddY(num);

@@ -7,3 +7,12 @@
 \\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
 \\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.exe
 \\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.pdb
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\bin\Debug\TEST.exe.config
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\bin\Debug\TEST.exe
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\bin\Debug\TEST.pdb
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\obj\Debug\TEST.Form1.resources
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\obj\Debug\TEST.exe
+C:\Users\tyl1g15\Pictures\myClone\cloned\TEST\TEST\obj\Debug\TEST.pdb
