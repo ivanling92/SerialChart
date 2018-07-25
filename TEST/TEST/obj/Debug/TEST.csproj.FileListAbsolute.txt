@@ -1,0 +1,9 @@
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\bin\Debug\TEST.exe.config
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\bin\Debug\TEST.exe
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\bin\Debug\TEST.pdb
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.Form1.resources
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.exe
+\\fsusmc.soton.ac.uk\users\tyl1g15\mydocuments\visual studio 2017\Projects\TEST\TEST\obj\Debug\TEST.pdb
